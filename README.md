@@ -2,9 +2,9 @@
 Today media companies are facing challenges such as tracking provenance and usage rights, while the content creators are struggling with monetizing their work.
 
 Our Ethereum smart contract, tied to individual piece of news media content, records the transaction history of content between authors and consumers, in a transparent and immutable manner.
-![SMART CONTRACT SOLUTION PROPOSAL](https://github.com/mfilipav/NewsSmartContracts/blob/master/misc/img2.jpg)
 
-*Developed for Thompson Reuters challenge at Hack'n'Lead Hackathon, which took place in Zurich on June 16-17, 2018.*
+![SMART CONTRACT SOLUTION PROPOSAL](https://github.com/mfilipav/NewsSmartContracts/blob/master/misc/img2.jpg)
+*DApp with an ETH smart contract at its core, facilitates secure creator-to-user transations on the Ethereum blockchain. Content is managed by Media Express API. Developed for Thompson Reuters challenge at Hack'n'Lead Hackathon, which took place in Zurich on June 16-17, 2018.*
 
 ## Benefits of ETH smart contracts for monetizing news media:
   - pay media content creators via block chain in a secure manner
