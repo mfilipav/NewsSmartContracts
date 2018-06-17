@@ -1,5 +1,7 @@
 # Smart Contracts to Monetize Media Content
-Ethereum blockchain smart contract, tied to individual piece of news media content, records the transaction history of content between authors and consumers, in a transparent and immutable manner.
+Today media companies are facing challenges such as tracking provenance and usage rights, while the content creators are struggling with monetizing their work.
+
+Our Ethereum smart contract, tied to individual piece of news media content, records the transaction history of content between authors and consumers, in a transparent and immutable manner.
 ![SMART CONTRACT SOLUTION PROPOSAL](https://github.com/mfilipav/NewsSmartContracts/blob/master/misc/img2.jpg)
 
 *Developed for Thompson Reuters challenge at Hack'n'Lead Hackathon, which took place in Zurich on June 16-17, 2018.*
