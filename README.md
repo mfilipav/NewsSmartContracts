@@ -1,8 +1,7 @@
 # NewsSmartContracts
 Ethereum blockchain smart contract, tied to each content piece, records the transaction history of that content piece individually in a transparent and immutable manner.
 
-![alt text](https://github.com/mfilipav/NewsSmartContracts/misc/img1.png)
-
+![alt text](https://github.com/mfilipav/NewsSmartContracts/tree/master/miscimg1.png)
 
 
 Benefits of smart contracts for news media :
