@@ -1,6 +1,12 @@
 # NewsSmartContracts
 Ethereum blockchain smart contract, tied to each content piece, records the transaction history of that content piece individually in a transparent and immutable manner.
 
+![blabla](https://github.com/mfilipav/NewsSmartContracts/tree/master/misc/img1.png)
+https://www.seriouseats.com/recipes/images/20110412-bread-baking-irish-wholemeal-bread.JPG
+
+![blabla](https://www.seriouseats.com/recipes/images/20110412-bread-baking-irish-wholemeal-bread.JPG)
+
+
 Benefits of smart contracts for news media :
 - pay media content creators via block chain
 - store the content as decentralized encrypted files which can be unlocked only by a private key
