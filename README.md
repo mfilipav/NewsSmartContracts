@@ -1,17 +1,9 @@
 # NewsSmartContracts
 Ethereum blockchain smart contract, tied to each content piece, records the transaction history of that content piece individually in a transparent and immutable manner.
 
-		News industry has not changed in over 100 years. Today, it continues to be a largely offline and extensive process, involving multiple dis-joint parties – reporters, subcontractors, the distributors, the increasing array of formats (eg. articles, tweets/headlines, photographs and videos reports).
-
-The whole ecosystem today is highly fragmented and news creators are challenged to optimally monetize their content. Huge chunk of content's value is lost due to distribution fees and third-party commissions. Especially when the same piece of content is partially used or sold to multiple customers.
-
-
-Smart contracts solve this problem:
+Benefits of smart contracts for news media :
 - pay media content creators via block chain
 - store the content as decentralized encrypted files which can be unlocked only by a private key
-
-- the smart contract, tied to each content piece, records the transaction history of that content piece individually in a transparent and immutable manner.
-
 - for the content users rights can be sliced and diced in multiple ways
 - keep track of how many times a particular content was used by news-agency clients
 
